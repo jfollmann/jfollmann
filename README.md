@@ -2,16 +2,23 @@
 
 ![linux](https://img.shields.io/badge/linux-love_💛-red)
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
-![release](https://img.shields.io/badge/release-0.0.1-blue)
+![release](https://img.shields.io/badge/release-0.0.2-blue)
 
 **Software Specialist at [@ZupIT](https://github.com/ZupIT)**
 - 🇧🇷 Born and living in Porto Alegre/RS, Brazil <br>
 - 🔭 Bachelor's degree in **Computer Science** at Unilasalle
-- 🌱 I’m currently learning about **Clean Architecture** and **Serverless Applications**
-- 👯 I’m looking to collaborate on **Open Source**
-
+- 🌱 I’m currently learning about **Clean Code**, **Clean Architecture**, **TDD** and **Serverless Applications**
+- 👯 I’m looking to colaborating on **Open Source**
+- ⚡ Knowledge is the only thing which, by dividing, multiplies itself.
 ### 📬 Get in Touch
 
 - 🐦 [https://twitter.com/jfollmann](https://twitter.com/jfollmann)
 - 📸 [https://instagram.com/jfollmann](https://instagram.com/jfollmann)
-- 💼 [https://www.linkedin.com/in/jfollmann](https://www.linkedin.com/in/jfollmann)
+- 💼 [https://www.linkedin.com/in/jfollmann](https://www.linkedin.com/in/jfollmann) 
+
+<br>
+
+<p align="right">
+<img src="https://img.shields.io/github/last-commit/jfollmann/jfollmann/main?label=last%20updated" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=jfollmann.github"><img>
+</p>
