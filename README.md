@@ -12,6 +12,7 @@
 - ⚡ Knowledge is the only thing which, by dividing, multiplies itself.
 ### 📬 Get in Touch
 
+- 🚀 [https://jfollmann.com](https://jfollmann.com)
 - 🐦 [https://twitter.com/jfollmann](https://twitter.com/jfollmann)
 - 📸 [https://instagram.com/jfollmann](https://instagram.com/jfollmann)
 - 💼 [https://www.linkedin.com/in/jfollmann](https://www.linkedin.com/in/jfollmann) 
