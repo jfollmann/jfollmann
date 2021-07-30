@@ -2,7 +2,7 @@
 
 ![linux](https://img.shields.io/badge/linux-love_💛-red)
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
-![release](https://img.shields.io/badge/release-0.0.2-blue)
+![release](https://img.shields.io/badge/release-0.0.3-blue)
 
 **Software Specialist at [@ZupIT](https://github.com/ZupIT)**
 - 🇧🇷 Born and living in Porto Alegre/RS, Brazil <br>
@@ -17,6 +17,6 @@
 - 💼 [https://www.linkedin.com/in/jfollmann](https://www.linkedin.com/in/jfollmann) 
 
 <p align="right">
-<img src="https://img.shields.io/github/last-commit/jfollmann/jfollmann/main?label=last%20updated" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=jfollmann.github"><img>
+<img src="https://img.shields.io/github/last-commit/jfollmann/jfollmann/main?label=last%20updated" />
 </p>
