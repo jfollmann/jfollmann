@@ -3,7 +3,7 @@
 ![linux](https://img.shields.io/badge/linux-love_💛-red)
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
 ![coverage](https://img.shields.io/badge/coverage-98%25-brightgreen)
-![release](https://img.shields.io/badge/release-0.0.3-blue)
+![release](https://img.shields.io/badge/release-0.0.4-blue)
 
 **Software Specialist at [@ZupIT](https://github.com/ZupIT)**
 - 🇧🇷 Born and living in Porto Alegre/RS, Brazil <br>
