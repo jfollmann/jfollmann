@@ -19,6 +19,6 @@
 - 💼 [https://www.linkedin.com/in/jfollmann](https://www.linkedin.com/in/jfollmann) 
 
 <p align="right">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jfollmann.github"><img>
-<img src="https://img.shields.io/github/last-commit/jfollmann/jfollmann/main?label=last%20updated" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jfollmann.github"><img>
+  <img src="https://img.shields.io/github/last-commit/jfollmann/jfollmann/main?label=last%20updated" />
 </p>
