@@ -13,7 +13,6 @@
 - ⚡ Knowledge is the only thing which, by dividing, multiplies itself.
 ### 📬 Get in Touch
 
-- [Hello, world!](http://example.com/){target="_blank"}
 - 🚀 [https://jfollmann.com](https://jfollmann.com)
 - 🐦 [https://twitter.com/jfollmann](https://twitter.com/jfollmann)
 - 📸 [https://instagram.com/jfollmann](https://instagram.com/jfollmann)
