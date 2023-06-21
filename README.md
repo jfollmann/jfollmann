@@ -1,4 +1,4 @@
-# Hello, I'm Follmann! 👋
+### Hello, I'm Follmann! 👋
 
 ![linux](https://img.shields.io/badge/linux-love_💛-red)
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
