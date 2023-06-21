@@ -11,12 +11,12 @@
 - 🌱 I’m currently learning about **Clean Code**, **Clean Architecture**, **TDD** and **Serverless Applications**.
 - 👯 I’m looking to colaborating on **Open Source**.
 - ⚡ Knowledge is the only thing which, by dividing, multiplies itself.
-### 📬 Get in Touch
 
-- 🚀 [https://jfollmann.com](https://jfollmann.com)
-- 🐦 [https://twitter.com/jfollmann](https://twitter.com/jfollmann)
-- 📸 [https://instagram.com/jfollmann](https://instagram.com/jfollmann)
-- 💼 [https://www.linkedin.com/in/jfollmann](https://www.linkedin.com/in/jfollmann) 
+### 📬 Get in Touch
+- 🚀 [Site](https://jfollmann.com)
+- 🐦 [Twitter](https://twitter.com/jfollmann)
+- 📸 [Instagram](https://instagram.com/jfollmann)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jfollmann) 
 
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jfollmann.github"><img>
